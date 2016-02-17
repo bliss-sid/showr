@@ -1,0 +1,54 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="showr.com" resolutions="1x,2x" timestamp="1454226807159">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_b-master.css" crc="67586553" ref="terms:artists:privacy:event-providers:about-us:jobs:all-cities"/>
+    <file name="master_a-master.css" crc="4179487295" ref="index"/>
+    <file name="terms.css" crc="3874394885" ref="terms"/>
+    <file name="iefonts_terms.css" crc="4127445855" ref="terms"/>
+    <file name="index.css" crc="4144138961" ref="index"/>
+    <file name="iefonts_index.css" crc="389043978" ref="index"/>
+    <file name="artists.css" crc="4097630015" ref="artists"/>
+    <file name="iefonts_artists.css" crc="3886719811" ref="artists"/>
+    <file name="privacy.css" crc="4277007152" ref="privacy"/>
+    <file name="iefonts_privacy.css" crc="475636555" ref="privacy"/>
+    <file name="event-providers.css" crc="3960517318" ref="event-providers"/>
+    <file name="iefonts_event-providers.css" crc="89185867" ref="event-providers"/>
+    <file name="about-us.css" crc="4066411810" ref="about-us"/>
+    <file name="iefonts_about-us.css" crc="4130802448" ref="about-us"/>
+    <file name="jobs.css" crc="172806546" ref="jobs"/>
+    <file name="iefonts_jobs.css" crc="206906485" ref="jobs"/>
+    <file name="all-cities.css" crc="353482613" ref="all-cities"/>
+    <file name="iefonts_all-cities.css" crc="93960395" ref="all-cities"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:all-cities:jobs:terms:privacy:about-us:artists:event-providers"/>
+    <file name="museutils.js" crc="183364071" ref="index:all-cities:jobs:terms:privacy:about-us:artists:event-providers"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index:all-cities"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:all-cities:jobs:terms:privacy:about-us:artists:event-providers"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="form_check.php" crc="277267350" ref="index"/>
+    <file name="form_throttle.php" crc="3908387251" ref="index"/>
+    <file name="form_process.php" crc="24249335" ref="index"/>
+    <file name="form-u264.php" crc="55561749" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="outtbb.jpg" crc="4243756488" ref="index"/>
+    <file name="u274-17.png" crc="509945132" ref="index"/>
+    <file name="u274-17-r.png" crc="4198562503" ref="index"/>
+    <file name="u274-17-m.png" crc="162586756" ref="index"/>
+    <file name="u274-17-fs.png" crc="4133119670" ref="index"/>
+    <file name="u274-17_2x.png" crc="4046749670" ref="index"/>
+    <file name="u274-17-r_2x.png" crc="212713939" ref="index"/>
+    <file name="u274-17-m_2x.png" crc="145923687" ref="index"/>
+    <file name="u274-17-fs_2x.png" crc="4148570656" ref="index"/>
+  </folder>
+  <file name="index.html" crc="227717772" seo="true" mt="1451211189123" redirect="true"/>
+  <file name="all-cities.html" crc="243443438" seo="true" mt="1451211336436" redirect="true"/>
+  <file name="jobs.html" crc="316005632" seo="true" mt="1451211336436" redirect="true"/>
+  <file name="terms.html" crc="286810284" seo="true" mt="1451211336436" redirect="true"/>
+  <file name="privacy.html" crc="4008955717" seo="true" mt="1451211336436" redirect="true"/>
+  <file name="about-us.html" crc="524507897" seo="true" mt="1454226751050" redirect="true"/>
+  <file name="artists.html" crc="3921514668" seo="true" mt="1451211336436" redirect="true"/>
+  <file name="event-providers.html" crc="201759486" seo="true" mt="1451211336436" redirect="true"/>
+</manifest>
